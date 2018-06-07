@@ -1,0 +1,33 @@
+.header {
+    background: #ffffff;
+    border-bottom:solid 5pt #cccccc;
+}
+    .name {
+    font-family: 'Mr Bedfort';
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px 35px;
+    font-size: 28pt;
+    font-weight: bold;
+    text-shadow:4px 4px 0 rgba(0,0,0,0.1);
+}
+
+.link {
+    background-color: #ffffff;
+    color: #777777;
+    border: 0 0 0 0;
+    padding: 0 6px;
+    font-size: 12pt;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+
+.maincontain {
+    background-image: url("spirationdark.png");
+    height: 100vh;
+}
+.mainpanel {
+    background: #4aaaa5;
+    height: 600px;
+}
+
